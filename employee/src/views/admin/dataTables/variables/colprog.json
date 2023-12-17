@@ -1,0 +1,27 @@
+[
+    {
+      "name":"Hiking",
+      "tech": ["IT"], 
+      "date": "12.Jan.2021",
+      "progress": 75.5  
+    },
+    {
+        "name":"Hiking",
+        "tech": ["ALL"], 
+        "date": "12.Jan.2021",
+        "progress": 35.4 
+    },
+    {
+        "name":"Hiking",
+        "tech": ["ALL"], 
+        "date": "12.Jan.2021",
+        "progress": 25  
+    },
+    {
+        "name":"Hiking",
+        "tech": ["ALL"], 
+        "date": "12.Jan.2021",
+        "progress": 100  
+    }
+  ]
+  

@@ -1,0 +1,37 @@
+[
+  {
+    "date_of_test": "12/12/2023",
+    "score": "20%",
+    "rating": 97
+  },
+  {
+    "date_of_test": "15/07/2024",
+    "score": "35%",
+    "rating": 87
+  },
+  {
+    "date_of_test": "20/10/2024",
+    "score": "50%",
+    "rating": 82
+  },
+  {
+    "date_of_test": "12/12/2023",
+    "score": "20%",
+    "rating": 68
+  },
+  {
+    "date_of_test": "15/07/2024",
+    "score": "35%",
+    "rating": 55
+  },
+  {
+    "date_of_test": "20/10/2024",
+    "score": "50%",
+    "rating": 46
+  },
+  {
+    "date_of_test": "12/12/2023",
+    "score": "20%",
+    "rating": 38
+  }
+]
